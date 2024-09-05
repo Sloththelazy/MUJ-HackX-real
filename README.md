@@ -1,6 +1,6 @@
 # Federated Learning: Implementation and Analysis
 
-### Indian Institute of Information Technology, Guwahati
+
 
 > The biggest obstacle to using advanced data analysis isn’t skill base or technology; it’s plain old access to the data ~ *Edd Wilder-James, Harvard Business Review*
 > 
